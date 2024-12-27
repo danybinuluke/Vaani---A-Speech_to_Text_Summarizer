@@ -63,6 +63,11 @@ Vaani is a versatile AI-powered tool that integrates **Automatic Speech Recognit
 ## Success Rate
 Vaani currently achieves a **55% success rate** for transcriptions, translations, and summaries. Ongoing enhancements aim to improve these metrics significantly.
 
+
+## For Better Interface
+
+After running the Gradio cell, You'll be able to access the Gradio Live server. Please Click on that and Use Vaani on an entire different Tab for better visualisation
+
 ## Contributing
 Contributions are welcome! If you have ideas for improving Vaani, feel free to fork the repository, make changes, and create a pull request. You can also open issues for bugs or feature requests.
 
