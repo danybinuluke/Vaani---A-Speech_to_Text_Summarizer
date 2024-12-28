@@ -32,8 +32,8 @@ Vaani is a versatile AI-powered tool that integrates **Automatic Speech Recognit
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vaani.git
-   cd vaani
+   git clone https://github.com/danybinuluke/Vaani---A-Speech_to_Text_Summarizer.git
+   cd Vaani---A-Speech_to_Text_Summarizer
    ```
 2. Install dependencies:
    ```bash
